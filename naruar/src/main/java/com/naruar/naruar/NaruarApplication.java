@@ -8,5 +8,7 @@ public class NaruarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NaruarApplication.class, args);
+				SpringApplication.run(NaruarApplication.class, args);
+
 	}
 }
